@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+    padding-bottom: 20px;
+    font-family: 'Yusei Magic', sans-serif;
+}
+
+
+#container{
+    margin: 0 auto;
+    width: 100%;
+    max-width: 750px;
+}
+#clear{
+    display: block;
+    float: right;
+    font-family: 'Yusei Magic', sans-serif;
+    box-shadow: 7px 7px 7px black;
+    border: 1px solid black;
+    width: 45px;
+    height: 20px;    
+}
